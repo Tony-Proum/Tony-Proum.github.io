@@ -67,5 +67,42 @@ that were used by more than two persons. It was an awesome feeling, the feeling 
 
 # Why to persist participating ? 
 
-Well, yes, I were not able to get the t-shirt, and it get me less satisfaction to get the t-shirt than to "do my part" at my own speed. 
+Well, yes, I were not able to get the t-shirt, but, it give me less satisfaction to get the t-shirt than to "do my part" at my own speed. 
 So Why am I participating year-to-year to the event ?
+
+Because I had fun the first time, and well ... each others years.
+
+I hoped, each year, that I may be able to find something that will give me the chance to validate my participation. 
+But well, I were just not prolific enough to get all PRs that could enable me to validate my hacktoberfest participation.     
+
+Not because I can't create enough PR to validate the event, but more because I wanted to create more interesting PRs.
+
+# What is an interesting PR in my mind ?
+
+My hopes, when I thought to contribute were to be helpful for some people, 
+that was a thing that I experimented during my first participation:
+Sometimes, when I were able to help somebody fixing an issue on his project,
+I were really happy and proud to contribute. This feeling gave me more superpower feelings than wearing the t-shirt I got the first year.
+
+Also, the PR I'm proud of, were not done during the Hacktoberfest period: there is not a lot of PR, and I'm not sure that I can qualify myself 
+as a contributor (or maybe not as prolific contributor as I want to be) but well, some projects on which I contributed to are 
+used by few peoples and that make me feels happy: the time I passed on those PR is not something useless, it can help
+some people.
+
+As far as I can think about it, I feel like the reason why I wanted this t-shirt so much were in order to be identified,
+or recognized as an OpenSource contributor. The reality is: when I wear a hacktoberfest t-shirt, I can't avoid myself to think :
+Well, you may have done a lot more to get this t-shirt. It finally says nothing really cool about what you've done.
+But well, this is my feeling now, my younger me was really proud :sweat_smile:
+
+Also, when I'm looking to the spamming issue this year, I were first very sad seeing this type of things. I mean, for me it was just a t-shirt.
+But when thinking about it, I realized that I can't criticize this conduct. I mean, I'm lucky enough to have a lot of tech t-shirts. 
+Not all devs have this luck. We in occidental countries are may be a little privileged and just forgot to think globally.
+
+Indians average salaries are around 300 US Dollars per month, it's 4 time less than the average salary in France or US. A t-shirt like the one
+we can earn with Hacktoberfest cost around 25 US Dollars ... it's near to 10 percent of the salary of an indian folk. I think that all I said
+above could easily applied with our privileged way of life. But maybe are there less applicable in some other countries.
+
+So for now, as sad as I'm, I just think that I have to be kind with this conduct. Maybe folks that act this way are just less lucky than me.
+
+
+ 
