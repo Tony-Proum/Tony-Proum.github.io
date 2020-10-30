@@ -14,16 +14,16 @@ I did not understand why it exists this kind of animosity around the event that 
 
 # My first participation.
 
-The first time I participated, I were not use to the process of contributing on OpenSource project. 
+The first time I participated, I were not use to the process of contributing on OpenSource projects. 
 To be honest, I think that I were not totally aware of what OpenSource was or the phylosophy behind that.
 
 This past me were not really confident when writing a message into an issue and more precisely were terrifying to write things on github:
 I thought, damn if somebody read this and ... you know maybe is this a big shitty comment or question ... 
-maybe should I avoid write a thing on github since I'm not an expert on this specific thing I wanted to answer about.
+maybe should I avoid to write a thing on github since I'm not an expert on this specific thing I wanted to answer about.
 
 present me to my past me: in the future you will not be an expert of anything so if you wait for it, 
 you may have to wait for a long long time ... or maybe it will never happens 
-Secondly: idiot, if you want to become an expert on something don't fear errors or stupid questions ... that seems to be a good way to learn
+Secondly: idiot, if you want to become an expert on something don't fear errors or stupid questions ... that seems to be a good way to learn.
 
 Happily SFEIR has organized an event around the hacktoberfest.
  
@@ -56,7 +56,7 @@ I were at ease with Java or Javascript projects, but as I wanted to solve some i
 
 photo meme golang everywhere
 
-In the second hand, a contribution have to follow the project's governance target. It's cool to arrive with the best idea of the year,
+On the other hand, a contribution have to follow the project's governance target. It's cool to arrive with the best idea of the year,
 but sometimes this idea is just not following some principle, or the Mojo of the project you want to contribute to. Also it's important
 to take the time to discuss the way to do things, or even if the thing you think about is relevant for the project.
 
@@ -70,9 +70,9 @@ that were used by more than two persons. It was an awesome feeling, the feeling 
 Well, yes, I were not able to get the t-shirt, but, it give me less satisfaction to get the t-shirt than to "do my part" at my own speed. 
 So Why am I participating year-to-year to the event ?
 
-Because I had fun the first time, and well ... each others years.
+Because I had fun the first time, and well ... every others years.
 
-I hoped, each year, that I may be able to find something that will give me the chance to validate my participation. 
+I hoped that, each year, I may be able to find something that will give me the chance to validate my participation. 
 But well, I were just not prolific enough to get all PRs that could enable me to validate my hacktoberfest participation.     
 
 Not because I can't create enough PR to validate the event, but more because I wanted to create more interesting PRs.
@@ -82,7 +82,7 @@ Not because I can't create enough PR to validate the event, but more because I w
 My hopes, when I thought to contribute were to be helpful for some people, 
 that was a thing that I experimented during my first participation:
 Sometimes, when I were able to help somebody fixing an issue on his project,
-I were really happy and proud to contribute. This feeling gave me more superpower feelings than wearing the t-shirt I got the first year.
+I were really happy and proud to contribute. This feeling gave me more superpowers feelings than wearing the t-shirt I got the first year.
 
 Also, the PR I'm proud of, were not done during the Hacktoberfest period: there is not a lot of PR, and I'm not sure that I can qualify myself 
 as a contributor (or maybe not as prolific contributor as I want to be) but well, some projects on which I contributed to are 
@@ -90,19 +90,19 @@ used by few peoples and that make me feels happy: the time I passed on those PR 
 some people.
 
 As far as I can think about it, I feel like the reason why I wanted this t-shirt so much were in order to be identified,
-or recognized as an OpenSource contributor. The reality is: when I wear a hacktoberfest t-shirt, I can't avoid myself to think :
+or recognized as an OpenSource contributor. The reality is: when I wear a hacktoberfest t-shirt, I can't stop myself to think :
 Well, you may have done a lot more to get this t-shirt. It finally says nothing really cool about what you've done.
 But well, this is my feeling now, my younger me was really proud :sweat_smile:
 
-Also, when I'm looking to the spamming issue this year, I were first very sad seeing this type of things. I mean, for me it was just a t-shirt.
+Also, when I'm looking to the spamming of issues this year, I felt very sad seeing this type of things. I mean, for me it was just a t-shirt.
 But when thinking about it, I realized that I can't criticize this conduct. I mean, I'm lucky enough to have a lot of tech t-shirts. 
-Not all devs have this luck. We in occidental countries are may be a little privileged and just forgot to think globally.
+Not all devs have this luck. We, in occidental countries, are maybe a little privileged and just forgot to think globally.
 
 Indians average salaries are around 300 US Dollars per month, it's 4 time less than the average salary in France or US. A t-shirt like the one
 we can earn with Hacktoberfest cost around 25 US Dollars ... it's near to 10 percent of the salary of an indian folk. I think that all I said
 above could easily applied with our privileged way of life. But maybe are there less applicable in some other countries.
 
-So for now, as sad as I'm, I just think that I have to be kind with this conduct. Maybe folks that act this way are just less lucky than me.
+So for now, as sad as I am, I just think that I have to be kind with this conduct. Maybe folks that act this way are just less lucky than me.
 
 
  
