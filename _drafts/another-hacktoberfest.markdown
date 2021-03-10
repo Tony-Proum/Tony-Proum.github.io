@@ -65,48 +65,52 @@ to take the time to discuss the idea, to find the best way to do or not to do th
 idea's can be at the opposite of the project target
 
 Well, with those new set of minds, this few years I was able to do some contributions that I were really proud of. 
-Thoses contribution were way better than the ones I've pushed during the first hacktoberfest event. But those contributions took me a lot more time to handle.
-So I was not able to get the right amount of PR during the due period. Anyway, I don't regret, this time I had contributed to projects 
-that were used by more than two persons. It was an awesome feeling, the feeling to be helpful in a kind of way.
+Those contributions were way better than the ones I've pushed during the first HacktoberFest event. 
+It also took me a lot more time to handle the complexity of this type of projects.
+Finally, I was not able to get the right amount of PR during the due period.
+Anyway, I don't regret, this time I had contributed to projects that were used by more than two persons.
+It was an awesome feeling, the feeling to be helpful in a kind of way.
 
 # Why to persist participating ? 
 
-Well, yes, I were not able to get the t-shirt, but, it give me less satisfaction to get the t-shirt than to "do my part" at my own speed. 
+Indeed, I was not able to get the t-shirt ! Well, I realized that the t-shirt itself gave me less satisfaction less pleasure than I experienced when I just "done my part" at my very own speed. 
 So Why am I participating year-to-year to the event ?
 
-Because I had fun the first time, and well ... every others years.
+Because I had fun the first time, and well ... each year since this one.
 
-I hoped that, each year, I may be able to find something that will give me the chance to validate my participation. 
-But well, I were just not prolific enough to get all PRs that could enable me to validate my hacktoberfest participation.     
+I hope that, I may be able to find something that will give me the chance to validate my participation. 
+But well, I'm just not prolific enough (yet) in the OpenSource space to push the 4 PRs needed to validate my HacktoberFest participation.     
+The rythme that I'm able to contribute is way more sporadic.
 
-Not because I can't create enough PR to validate the event, but more because I wanted to create more interesting PRs.
-
-# What is an interesting PR in my mind ?
-
-My hopes, when I thought to contribute were to be helpful for some people, 
-that was a thing that I experimented during my first participation:
-Sometimes, when I were able to help somebody fixing an issue on his project,
-I were really happy and proud to contribute. This feeling gave me more superpowers feelings than wearing the t-shirt I got the first year.
-
-Also, the PR I'm proud of, were not done during the Hacktoberfest period: there is not a lot of PR, and I'm not sure that I can qualify myself 
-as a contributor (or maybe not as prolific contributor as I want to be) but well, some projects on which I contributed to are 
-used by few peoples and that make me feels happy: the time I passed on those PR is not something useless, it can help
-some people.
+I think that the reason is not the fact that I can't create enough PR to validate the event. 
+Instead, I wanted to push interesting PRs, on project that I daily use, and as I mention earlier, contributing for each of those project is a challenge itself.
+Also, I mean, when I encounter an issue, well, I often not quite patient enough to wait for next October before starting working on solving it :sweat_smile:
 
 As far as I can think about it, I feel like the reason why I wanted this t-shirt so much were in order to be identified,
-or recognized as an OpenSource contributor. The reality is: when I wear a hacktoberfest t-shirt, I can't stop myself to think :
-Well, you may have done a lot more to get this t-shirt. It finally says nothing really cool about what you've done.
-But well, this is my feeling now, my younger me was really proud :sweat_smile:
+or recognized as an OpenSource contributor. The reality is: when I wear a hacktoberfest t-shirt, I can't stop thinking myself:
+Ok, younger me, so you've got this t-shirt, but finally are you proud of your OpenSource journey ? 
+And of course the answer from younger me was No. 
 
-Also, when I'm looking to the spamming of issues this year, I felt very sad seeing this type of things. I mean, for me it was just a t-shirt.
-But when thinking about it, I realized that I can't criticize this conduct. I mean, I'm lucky enough to have a lot of tech t-shirts. 
-Not all devs have this luck. We, in occidental countries, are maybe a little privileged and just forgot to think globally.
+# The discord
 
-Indians average salaries are around 300 US Dollars per month, it's 4 time less than the average salary in France or US. A t-shirt like the one
-we can earn with Hacktoberfest cost around 25 US Dollars ... it's near to 10 percent of the salary of an indian folk. I think that all I said
-above could easily applied with our privileged way of life. But maybe are there less applicable in some other countries.
+When I'm looking to the spamming of issues this past year, I felt very sad seeing this type of things. 
+I mean, at the first glance, it was just a t-shirt. But when thinking about it, I realized that I can't criticize this conduct.
+I mean, I'm lucky enough to have gathered a lot of tech t-shirts. Not all devs have this luck.
+Furthermore, we, in occidental countries, are maybe a little privileged and just forgot to think globally.
 
-So for now, as sad as I am, I just think that I have to be kind with this conduct. Maybe folks that act this way are just less lucky than me.
+When the scandal happened, I saw a lot of criticism about indian videos showing how to push some trash PR in order to validate the HacktoberFest participation.
+Unfortunately, Indians average salaries are about 300 US Dollars a month, it's 4 time less than the average salary in France or US. A t-shirt like the one
+we can earn with Hacktoberfest cost around 25 US Dollars ... it's near to 10 percent of the salary of an indian folk. 
+10 percent of an average developer salary here is enough to by something like a Nintendo Switch... 
+So should I be able to do some bad PR for this kind of reward. 
+Hell yeah I think that I could do some effort for this :grin:
+
+# Last thoughts
+
+We have to be kind with this kind of drifting. Maybe folks that act this way are just less lucky than us.
+Maybe, if luckily, this event can have a 2021 edition, I think that 
+I will spend a lot of time helping new-comers being able to get their beloved t-shirts. 
+It could be a cool time spending
 
 
  
